@@ -1,0 +1,50 @@
+{
+    "ver": 2,
+     "sources": [{
+         "center": 155600000,
+         "rate": 2048000,
+         "ppm": 0,
+         "gain": 32,
+         "agc": true,
+         "digitalRecorders": 5,
+         "analogRecorders": 0,
+         "driver": "osmosdr",
+         "device": "rtl="
+     },{
+         "center": 152500000,
+         "rate": 2048000,
+         "ppm": 0,
+         "gain": 32,
+         "agc": true,
+         "debugRecorders": 0,
+         "digitalRecorders": 2,
+         "analogRecorders": 0,
+         "driver": "osmosdr",
+         "device": "rtl="
+     },{
+        "center": 154500000,
+        "rate": 2048000,
+        "ppm": 0,
+        "gain": 32,
+        "agc": true,
+        "digitalRecorders": 5,
+        "analogRecorders": 0,
+        "driver": "osmosdr",
+        "device": "rtl="
+    }],
+             
+     "systems": [{
+         "control_channels": [155632500,155422500,155722500],
+         "type": "p25",
+         "digitalLevels": 1,
+         "talkgroupsFile": "NESRS.TalkgroupIDs.CSV",
+         "shortName": "nesr",
+         "modulation": "qpsk",
+         "hideEncrypted": false,
+         "uploadScript": "",
+         "talkgroupDisplayFormat":"id_tag",
+         "compressWav": false
+     }],
+     "captureDir": "",
+     "frequencyFormat": "mhz"
+}

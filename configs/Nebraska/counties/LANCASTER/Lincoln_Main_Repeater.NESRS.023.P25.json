@@ -1,0 +1,63 @@
+{
+    "ver": 2,
+     "sources": [{
+         "center": 856000000,
+         "rate": 2048000,
+         "ppm": 0,
+         "gain": 49,
+         "agc": true,
+         "digitalLevels": 1,
+         "digitalRecorders": 4,
+         "analogRecorders": 0,
+         "driver": "osmosdr",
+         "device": "rtl="
+     },{
+         "center": 857800000,
+         "rate": 2048000,
+         "ppm": 0,
+         "gain": 49,
+         "agc": true,
+         "digitalLevels": 1,
+         "debugRecorders": 0,
+         "digitalRecorders": 6,
+         "analogRecorders": 0,
+         "driver": "osmosdr",
+         "device": "rtl="
+     }, {
+         "center": 859500000,
+         "rate": 2048000,
+         "ppm": 0,
+         "agc": true,
+         "gain": 49,
+         "digitalLevels": 1,
+         "debugRecorders": 0,
+         "digitalRecorders": 6,
+         "analogRecorders": 0,
+         "driver": "osmosdr",
+         "device": "rtl="
+     },{
+         "center": 855000000,
+         "rate": 2048000,
+         "ppm": 0,
+         "agc": true,
+         "gain": 49,
+         "digitalLevels": 1,
+         "digitalRecorders": 4,
+         "analogRecorders": 0,
+         "driver": "osmosdr",
+         "device": "rtl="
+     }   ],
+     "systems": [{
+         "control_channels": [856212500,857212500,858212500,854790000],
+         "type": "p25",
+         "digitalLevels": 1,
+         "talkgroupsFile": "NESRS.TalkgroupIDs.CSV",
+         "shortName": "nesr",
+         "modulation": "qpsk",
+         "hideEncrypted": false,
+         "uploadScript": "",
+         "talkgroupDisplayFormat":"id_tag"
+     }],
+     "captureDir": "",
+     "logLevel":"info"
+ }
