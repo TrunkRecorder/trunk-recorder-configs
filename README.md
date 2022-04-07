@@ -6,34 +6,6 @@ Community Shared Configs for Trunk-Recorder
 
 Please see the system index [HERE](/index.md)
 
-
----
-## Example Config types
-
-## By System Type
-- **P25**
-    - [NESRS - Lincoln](/configs/Nebraska/counties/LANCASTER/Lincoln_Main_Repeater.NESRS.023.P25.json)
-
-- **Smartnet**
-
-- **Conventional**
-
-- **P25 Conventional**
-
-- **DMR**
-
-## By Radio Type
-- **RTL-SDR**
-    - [NESRS - Lincoln](/configs/Nebraska/counties/LANCASTER/Lincoln_Main_Repeater.NESRS.023.P25.json)
-
-- **Airspy**
-
-- **HackRF**
-
-- **LimeSDR**
-
-- **USRP**
-
 ---
 ## Subiting a Site
 **When submiting a new PR please make sure to do the following:**
@@ -73,8 +45,29 @@ Put state system county sites & county systems configs in `config/<state>/<COUNT
 #### City Only Configs
 Put city only configs in `config/<state>/<COUNTY>/cities/<city>`
 **DONT PUT CONFIGS THAT SERVICE THE COUNTY HERE**
+---
+## Example Config types
 
+## By System Type
+- **P25**
+    - [NESRS - Lincoln](/configs/Nebraska/counties/LANCASTER/Lincoln_Main_Repeater.NESRS.023.P25.json)
 
+- **Smartnet**
 
+- **Conventional**
 
+- **P25 Conventional**
 
+- **DMR**
+
+## By Radio Type
+- **RTL-SDR**
+    - [NESRS - Lincoln](/configs/Nebraska/counties/LANCASTER/Lincoln_Main_Repeater.NESRS.023.P25.json)
+
+- **Airspy**
+
+- **HackRF**
+
+- **LimeSDR**
+
+- **USRP**
