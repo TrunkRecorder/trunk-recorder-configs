@@ -1,4 +1,4 @@
-# trunk-recorder-configs
+# Trunk Recorder Community Shared Configs
 Community Shared Configs for Trunk-Recorder
 
 ---
