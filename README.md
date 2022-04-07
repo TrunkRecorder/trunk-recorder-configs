@@ -4,29 +4,29 @@ Community Shared Configs for Trunk-Recorder
 ---
 ## Example Config types
 
-### By System Type
-#### P25
-- [NESRS - Lincoln](FIX ME)
+## By System Type
+- **P25**
+    - [NESRS - Lincoln](FIX ME)
 
-#### Smartnet
+- **Smartnet**
 
-#### Conventional
+- **Conventional**
 
-#### P25 Conventional
+- **P25 Conventional**
 
-#### DMR
+- **DMR**
 
-### By Radio Type
-#### RTL-SDR
-- [NESRS - Lincoln](FIX ME)
+## By Radio Type
+- **RTL-SDR**
+    - [NESRS - Lincoln](FIX ME)
 
-#### Airspy
+- **Airspy**
 
-#### HackRF
+- **HackRF**
 
-#### LimeSDR
+- **LimeSDR**
 
-#### USRP
+- **USRP**
 
 ---
 ## Subiting a Site
