@@ -2,11 +2,17 @@
 Community Shared Configs for Trunk-Recorder
 
 ---
+## Systems Index
+
+Please see the system index [HERE](/index.md)
+
+
+---
 ## Example Config types
 
 ## By System Type
 - **P25**
-    - [NESRS - Lincoln](FIX ME)
+    - [NESRS - Lincoln](/configs/Nebraska/counties/LANCASTER/Lincoln_Main_Repeater.NESRS.023.P25.json)
 
 - **Smartnet**
 
@@ -18,7 +24,7 @@ Community Shared Configs for Trunk-Recorder
 
 ## By Radio Type
 - **RTL-SDR**
-    - [NESRS - Lincoln](FIX ME)
+    - [NESRS - Lincoln](/configs/Nebraska/counties/LANCASTER/Lincoln_Main_Repeater.NESRS.023.P25.json)
 
 - **Airspy**
 
