@@ -40,6 +40,8 @@ Please see the system index [HERE](/index.md)
 - [ ] Update index.md with your added sites in alphabetical order
 - [ ] Follow or create the folder structure 
 - [ ] Follow the naming schema
+- [ ] Be sure to clear out un-needed data
+    - Such as: Api keys, upload config, sdr serial # / index
 
 ### Index
 Please update index.md with your added sites
