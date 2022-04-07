@@ -5,8 +5,8 @@ Example config.json files for Trunk Recorder
 ## Folder structure
 
 We submitting a new PR, please make these folder if the dont exsit
-`configs/<state>/<county>/cities`
-`configs/<state>/systems-misc/<System Name>` (Only if state level system)
+- `configs/<state>/<county>/cities`
+- `configs/<state>/systems-misc/<System Name>` (Only if state level system)
 
 
 ### State level system resources
