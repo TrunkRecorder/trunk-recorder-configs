@@ -46,6 +46,7 @@ Put state system county sites & county systems configs in `config/<state>/<COUNT
 Put city only configs in `config/<state>/<COUNTY>/cities/<city>`
 
 **DONT PUT CONFIGS THAT SERVICE THE COUNTY HERE**
+
 ---
 ## Example Config types
 
