@@ -4,6 +4,11 @@ Example config.json files for Trunk Recorder
 ---
 ## Folder structure
 
+We submitting a new PR, please make these folder if the dont exsit
+`configs/<state>/<county>/cities`
+`configs/<state>/systems-misc/<System Name>` (Only if state level system)
+
+
 ### State level system resources
 please put state level resources in `config/<state>/systems-misc/<System Name>`
 
@@ -13,7 +18,7 @@ ie. talkgroup files
 please put state system county sites & County Systems configs in `config/<state>/<COUNTY>`
 
 ### City only configs
-please put  City only configs in `config/<state>/<COUNTY>/<city>`
+please put  City only configs in `config/<state>/<COUNTY>/cities/<city>`
 **DONT PUT CONFIGS THAT SERVICE THE COUNTY HERE**
 
 ---
