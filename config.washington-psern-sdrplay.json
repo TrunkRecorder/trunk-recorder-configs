@@ -1,0 +1,39 @@
+{
+    "ver": 2,
+    "frequencyFormat": "mhz",
+    "sources": [
+        {
+            "center": 852712500,
+            "rate": 5000000,
+            "error": 460,
+            "gain": 30,
+            "digitalRecorders": 16,
+            "driver": "osmosdr",
+            "device": "soapy,driver=sdrplay"}
+        
+    ],
+    "systems": [{
+      "control_channels": [854287500, 853825000, 851887500, 852862500],
+      "type": "p25",
+      "talkgroupsFile": "psern_talkgroups.csv",
+      "unitTagsFile": "UnitTags.csv",
+      "squelch": -50,
+      "modulation": "qpsk",
+      "digitalLevels": 1,
+      "compressWav": false,
+      "shortName": "PSERN",
+      "talkgroupDisplayFormat": "tag_id",
+      "audioArchive": false,
+      "callLog": true
+    }],
+    "plugins": [{
+        "name": "rdioscanner_uploader",
+        "library": "librdioscanner_uploader.so",
+        "server": "http://localhost:3000",
+        "systems": [{
+                "shortName": "PSERN",
+                "apiKey": "",
+                "systemId": 11628
+        }]
+    }]
+  }
