@@ -1,0 +1,696 @@
+Decimal,Hex,Alpha Tag,Mode,Description,Tag,Category
+1001,3e9,Motorola 1,D,Motorola 1,Public Works,Office of the CIO
+1002,3ea,Motorola 2,D,Motorola 2,Public Works,Office of the CIO
+1003,3eb,Motorola 3,D,Motorola 3,Public Works,Office of the CIO
+1004,3ec,Motorola 4,D,Motorola 4,Public Works,Office of the CIO
+1005,3ed,Motorola 5,D,Motorola 5,Public Works,Office of the CIO
+3001,bb9,Troop A ISO SEC,DE,ISO Secure,Law Tac,State Patrol Troop A  Omaha
+3002,bba,Troop A SEC 5,DE,Secure 5,Law Tac,State Patrol Troop A  Omaha
+3003,bbb,Troop A SEC 6,DE,Secure 6,Law Tac,State Patrol Troop A  Omaha
+3004,bbc,Troop A SEC 7,DE,Secure 7,Law Tac,State Patrol Troop A  Omaha
+3005,bbd,Troop A LE 1,D,LE 1,Law Tac,State Patrol Troop A  Omaha
+3006,bbe,Troop A LE 2,D,LE 2,Law Tac,State Patrol Troop A  Omaha
+3007,bbf,NSP Brk Arw,DE,Broken Arrow,Law Talk,State Patrol  Statewide
+3008,bc0,Troop A LE 3 SEC,De,LE 3 Secure,Law Tac,State Patrol Troop A  Omaha
+3010,bc2,Troop B Disp 2,DE,Dispatch 2,Law Tac,State Patrol Troop B  Norfolk
+3011,bc3,Troop B ISO,D,ISO,Law Dispatch,State Patrol Troop B  Norfolk
+3012,bc4,Troop B Sec 5,DE,Secure 5,Law Tac,State Patrol Troop B  Norfolk
+3013,bc5,Troop B Sec 6,DE,Secure 6,Law Tac,State Patrol Troop B  Norfolk
+3014,bc6,Troop B Sec 7,DE,Secure 7,Law Tac,State Patrol Troop B  Norfolk
+3015,bc7,Troop B LE 1,D,LE 1,Law Tac,State Patrol Troop B  Norfolk
+3016,bc8,Troop B LE 2,D,LE 2,Law Tac,State Patrol Troop B  Norfolk
+3018,bca,Troop B LE 3,De,LE 3,Law Tac,State Patrol Troop B  Norfolk
+3019,bcb,NSP SWAT 1,D,SWAT 1,Law Tac,State Patrol  Statewide
+3020,bcc,NSP SWAT 2,D,SWAT 2,Law Tac,State Patrol  Statewide
+3022,bce,Troop E Disp 1,D,Dispatch 1,Law Dispatch,State Patrol Troop E  Scottsbluff
+3025,bd1,Troop C LE 5,DE,LE 5,Law Tac,State Patrol Troop C  Grand Island
+3026,bd2,Troop C LE 6,DE,LE 6,Law Tac,State Patrol Troop C  Grand Island
+3027,bd3,Troop C LE 7,DE,LE 7,Law Tac,State Patrol Troop C  Grand Island
+3028,bd4,Troop C LE 1,D,LE 1,Law Tac,State Patrol Troop C  Grand Island
+3029,bd5,Troop C LE 2,D,LE 2,Law Tac,State Patrol Troop C  Grand Island
+3030,bd6,Troop C LE SEC,DE,LE SEC,Law Tac,State Patrol Troop C  Grand Island
+3031,bd7,Troop C LE SEC3,DE,LE Secure 3,Law Tac,State Patrol Troop C  Grand Island
+3034,bda,Troop B Disp 4,DE,Dispatch 4,Law Tac,State Patrol Troop B  Norfolk
+3036,bdc,Troop D ENC,DE,Encrypted 3036,Law Tac,State Patrol Troop D  North Platte
+3039,bdf,Troop D LE 1,D,LE 1,Law Tac,State Patrol Troop D  North Platte
+3040,be0,Troop D LE 2,D,LE 2,Law Tac,State Patrol Troop D  North Platte
+3042,be2,Troop D LE SEC3,DE,LE Secure 3,Law Tac,State Patrol Troop D  North Platte
+3045,be5,Troop A Captl Sc,DE,Capital Security,Law Tac,State Patrol Troop A  Omaha
+3047,be7,NSP Exec Prot,DE,Executive Protection,Law Talk,State Patrol  Statewide
+3051,beb,Troop E ISO Sec,De,ISO Secure,Law Tac,State Patrol Troop E  Scottsbluff
+3052,bec,Troop E Sec 5,DE,Secure 5,Law Tac,State Patrol Troop E  Scottsbluff
+3053,bed,Troop E Sec 6,D,Secure 6,Law Tac,State Patrol Troop E  Scottsbluff
+3054,bee,Troop E Sec 7,D,Secure 7,Law Tac,State Patrol Troop E  Scottsbluff
+3055,bef,Troop E LE 1,D,LE 1,Law Tac,State Patrol Troop E  Scottsbluff
+3056,bf0,Troop E LE 2,D,LE 2,Law Tac,State Patrol Troop E  Scottsbluff
+3058,bf2,Troop E LE 3,D,LE 3 Secure,Law Tac,State Patrol Troop E  Scottsbluff
+3060,bf4,S1 Statewide,D,S1 Statewide,Interop,Statewide Interoperbility
+3071,bff,Troop HQ Disp 1,D,Dispatch 1,Law Dispatch,State Patrol Troop H  Lincoln
+3072,c00,Troop HQ Disp 2,DE,Dispatch 2,Law Dispatch,State Patrol Troop H  Lincoln
+3073,c01,Troop HQ Disp 3,D,Dispatch 3,Law Dispatch,State Patrol Troop H  Lincoln
+3074,c02,Troop HQ Disp 4,DE,Dispatch 4,Law Dispatch,State Patrol Troop H  Lincoln
+3075,c03,Troop A Disp 1,D,Dispatch 1,Law Dispatch,State Patrol Troop A  Omaha
+3076,c04,Troop A Disp 2,DE,Dispatch 2,Law Tac,State Patrol Troop A  Omaha
+3077,c05,Troop A Disp 3,D,Dispatch 3,Law Dispatch,State Patrol Troop A  Omaha
+3078,c06,Troop A Disp 4,DE,Dispatch 4,Law Tac,State Patrol Troop A  Omaha
+3079,c07,Troop B Disp 1,D,Dispatch 1,Law Dispatch,State Patrol Troop B  Norfolk
+3080,c08,Troop C Disp 2,DE,Dispatch 2,Law Dispatch,State Patrol Troop C  Grand Island
+3081,c09,Troop C Disp 3,D,Dispatch 3,Law Dispatch,State Patrol Troop C  Grand Island
+3082,c0a,Troop C Disp 4,DE,Dispatch 4,Law Dispatch,State Patrol Troop C  Grand Island
+3083,c0b,Troop D Disp 1,D,Dispatch 1,Law Dispatch,State Patrol Troop D  North Platte
+3084,c0c,Troop D Disp 2,DE,Dispatch 2,Law Dispatch,State Patrol Troop D  North Platte
+3085,c0d,Troop D Disp 3,D,Dispatch 3,Law Dispatch,State Patrol Troop D  North Platte
+3087,c0f,Troop B Disp 3,D,Dispatch 3,Law Dispatch,State Patrol Troop B  Norfolk
+3088,c10,Troop E Disp 2,DE,Dispatch 2,Law Dispatch,State Patrol Troop E  Scottsbluff
+3089,c11,Troop E Disp 3,D,Dispatch 3,Law Dispatch,State Patrol Troop E  Scottsbluff
+3090,c12,Troop E Disp 4,De,Dispatch 4,Law Dispatch,State Patrol Troop E  Scottsbluff
+3092,c14,Troop C Disp 1,D,Dispatch 1,Law Dispatch,State Patrol Troop C  Grand Island
+3093,c15,Troop HQ ISO Sec,DE,ISO,Law Tac,State Patrol Troop H  Lincoln
+3094,c16,Troop HQ Sec 5,DE,Secure 5,Law Tac,State Patrol Troop H  Lincoln
+3095,c17,Troop HQ Sec 6,DE,Secure 6,Law Tac,State Patrol Troop H  Lincoln
+3096,c18,Troop HQ Sec 7,DE,Secure 7,Law Tac,State Patrol Troop H  Lincoln
+3097,c19,Troop HQ LE 1,D,LE 1,Law Tac,State Patrol Troop H  Lincoln
+3098,c1a,Troop HQ LE 2,D,LE 2,Law Tac,State Patrol Troop H  Lincoln
+3099,c1b,Troop HQ LE SEC3,DE,LE Secure 3,Law Tac,State Patrol Troop H  Lincoln
+3252,cb4,NPPD Swtch 3,D,Switching 3,Utilities,Nebraska Public Power District
+3522,dc2,NPPD Lexingt,D,Lexington Service,Utilities,Nebraska Public Power District
+3524,dc4,NPPD KrnyTra,D,Kearney Tranmission Crew,Utilities,Nebraska Public Power District
+3526,dc6,NPPD Swtch 1,D,Switching 1,Utilities,Nebraska Public Power District
+3527,dc7,NPPD Swtch 2,D,Switching 2,Utilities,Nebraska Public Power District
+3529,dc9,NPPD KrnCon2,D,Kearney Contol 2,Utilities,Nebraska Public Power District
+3530,dca,NPPD NrfolkD,D,Norfolk Dispatch,Utilities,Nebraska Public Power District
+3532,dcc,NPPD KrnCon1,D,Kearney Control 1,Utilities,Nebraska Public Power District
+3534,dce,NPPD Plattsm,D,Plattsmouth Service,Utilities,Nebraska Public Power District
+3535,dcf,NPPD York,D,York Service,Utilities,Nebraska Public Power District
+3538,dd2,NPPD Work 1,D,Work 1,Utilities,Nebraska Public Power District
+3539,dd3,NPPD Work 2,D,Work 2,Utilities,Nebraska Public Power District
+3540,dd4,NPPD McCook,D,McCook Service,Utilities,Nebraska Public Power District
+3541,dd5,NPPD Donipha,D,Doniphan Service,Utilities,Nebraska Public Power District
+3543,dd7,NPPD Norfolk,D,Norfolk Service,Utilities,Nebraska Public Power District
+3544,dd8,NPPD Work 3,D,Work 3,Utilities,Nebraska Public Power District
+3545,dd9,NPPD S Sioux,D,South Sioux City Service,Utilities,Nebraska Public Power District
+3546,dda,NPPP NrflkTOC,D,Norfolk TOC,Utilities,Nebraska Public Power District
+3547,ddb,NPPD Nrk Tra,D,Norfolk Transmission Crew,Utilities,Nebraska Public Power District
+3549,ddd,NPPD ChadCon,D,Chadron Control,Utilities,Nebraska Public Power District
+3550,dde,NPPD Ogallala,D,Ogallala,Utilities,Nebraska Public Power District
+3551,ddf,NPPD Work 4,D,Work 4,Utilities,Nebraska Public Power District
+3552,de0,NPPD NP Tran,D,North Platte Transmission Crew,Utilities,Nebraska Public Power District
+3558,de6,NPPD Work 5,D,Work 5,Utilities,Nebraska Public Power District
+3559,de7,NPPD Veh Mnt,D,Vehicle Maintenance,Utilities,Nebraska Public Power District
+3563,deb,NPPD Veh Mtc,D,Vehicle Maintenance,Utilities,Nebraska Public Power District
+3564,dec,NPPD Tech,D,Technical Ops TOC,Utilities,Nebraska Public Power District
+4501,1195,LES Transmission,D,Transmission,Utilities,Lincoln Electric Systems
+4502,1196,LES Control 1,D,Control 1,Utilities,Lincoln Electric Systems
+4503,1197,LES Control 2,D,Control 2,Utilities,Lincoln Electric Systems
+4504,1198,LES Control 3,D,Control 3,Utilities,Lincoln Electric Systems
+4505,1199,LES MT,D,MT,Utilities,Lincoln Electric Systems
+4507,119b,LES Substation,D,Substation,Utilities,Lincoln Electric Systems
+4508,119c,LES Meter,D,Meter Service,Utilities,Lincoln Electric Systems
+4510,119e,LES Transport,D,Transport,Utilities,Lincoln Electric Systems
+4511,119f,LES Storeroom,D,Storeroom,Utilities,Lincoln Electric Systems
+4512,11a0,LES Toolroom,D,Toolroom,Utilities,Lincoln Electric Systems
+4513,11a1,LES CM,D,CM,Utilities,Lincoln Electric Systems
+4514,11a2,LES COOP,D,Coop,Utilities,Lincoln Electric Systems
+4515,11a3,LES ED,D,Electrical Distrubution,Utilities,Lincoln Electric Systems
+4517,11a5,LES Generation,D,Generation,Utilities,Lincoln Electric Systems
+4518,11a6,LES Corp,D,Corp,Utilities,Lincoln Electric Systems
+4519,11a7,LES Common,D,Common,Utilities,Lincoln Electric Systems
+4520,11a8,LES Credit,D,Credit,Utilities,Lincoln Electric Systems
+4521,11a9,LES 1,D,Channel 1,Utilities,Lincoln Electric Systems
+4522,11aa,LES 2,D,Channel 2,Utilities,Lincoln Electric Systems
+4524,11ac,LES 4,D,Channel 4,Utilities,Lincoln Electric Systems
+4600,11f8,BCPPD 4600,D,Operations 4600,Utilities,Burt County Public Power District
+6000,1770,BCPPD 6000,D,Operations 6000,Utilities,Burt County Public Power District
+12101,2f45,Lincoln PD 1 W,DE,Police 1 West Dispatch,Law Dispatch,Lincoln
+12102,2f46,Lincoln PD 2 W C,DE,Police 2 West CarCar,Law Dispatch,Lincoln
+12103,2f47,Lincoln PD 3 E,DE,Police 3 East Dispatch,Law Dispatch,Lincoln
+12104,2f48,Lincoln PD 4 E C,DE,Police 4 East CarCar,Law Tac,Lincoln
+12105,2f49,Lincoln PD 5 X,DE,Police 5 Expanded Dispatch,Law Dispatch,Lincoln
+12106,2f4a,Lincoln PD 6 X C,DE,Police 6 Expanded CarCar,Law Tac,Lincoln
+12107,2f4b,Lincoln PD 7 Ops,D,Police 7 LE Operations,Law Tac,Lincoln
+12108,2f4c,Lincoln PD 8 Ops,D,Police 8 LE Operations,Law Tac,Lincoln
+12109,2f4d,Lincoln PD 9 Ops,D,Police 9 LE Operations,Law Tac,Lincoln
+12110,2f4e,Lincoln PD 10 Op,D,Police 10 LE Operations,Law Tac,Lincoln
+12111,2f4f,Lincoln PD 11 Op,D,Police 11 LE Operations,Law Tac,Lincoln
+12112,2f50,Lincoln PD 12 Op,D,Police 12 LE Operations,Law Tac,Lincoln
+12113,2f51,Lincoln PD 13 PS,DE,Police 13 PS,Multi-Tac,Lincoln
+12114,2f52,Lincoln PD 14 PS,DE,Police 14 PS,Multi-Tac,Lincoln
+12115,2f53,Lincoln PD 15 CL,D,Police 15 PS CLR,Multi-Tac,Lincoln
+12116,2f54,Lincoln PD 16 In,D,Police 16 Info,Law Talk,Lincoln
+12119,2f57,Lincoln PD K9,D,Police K9,Law Tac,Lincoln
+12120,2f58,Lincoln PD SWAT,D,Police SWAT,Law Tac,Lincoln
+12123,2f5b,Lincoln PD Narc1,D,Police Narcotics 1,Law Tac,Lincoln
+12124,2f5c,Lincoln PD Narc2,D,Police Narcotics 2,Law Tac,Lincoln
+12129,2f61,Lincoln PD Traff,D,Police Traffic,Law Tac,Lincoln
+12150,2f76,LanCo SO Train,D,Sheriff Training,Law Talk,Lancaster County
+12151,2f77,LanCo SO Ops,D,Sheriff Operations,Law Tac,Lancaster County
+12152,2f78,LanCo SO Court,D,Sherriff Court,Law Tac,Lancaster County
+12153,2f79,LanCo SO Civil,D,Sheriff Civil,Law Tac,Lancaster County
+12154,2f7a,LanCo SO TAC,D,Sheriff Tactical,Law Tac,Lancaster County
+12155,2f7b,LanCo SO FTF,D,Sheriff Fugitive Task Force,Law Tac,Lancaster County
+12158,2f7e,LanCoLinc EMA 1,D,Emergency Management Talk 1,Emergency Ops,Lancaster County
+12159,2f7f,LanCo ADF Trans,D,Adult Detention Facility Transporation,Corrections,Lancaster County
+12160,2f80,LanCo ADF Tac,D,Adult Detention Facility Tactical,Corrections,Lancaster County
+12161,2f81,UNL PD 1,DE,UNL Police 1,Law Dispatch,Lincoln
+12168,2f88,UNL PDFD 1,DE,UNL PoliceFire 1,Fire Dispatch,Lincoln
+12169,2f89,UNL PDFD 2,DE,UNL PoliceFire 2,Multi-Tac,Lincoln
+12170,2f8a,UNL PDFD 3,DE,UNL PoliceFire 3,Multi-Tac,Lincoln
+12171,2f8b,UNL Red 1,DE,UNL Gameday Red 1,Schools,Lincoln
+12172,2f8c,UNL Red 2,DE,UNL Gameday Red 2,Schools,Lincoln
+12173,2f8d,UNL Red 3,DE,UNL Gameday Red 3,Schools,Lincoln
+12174,2f8e,UNL Red 4,DE,UNL Gameday Red 4,Schools,Lincoln
+12175,2f8f,UNL Red 5,DE,UNL Gameday Red 5,Schools,Lincoln
+12176,2f90,UNL Red 6,DE,UNL Gameday Red 6,Schools,Lincoln
+12177,2f91,UNL Red 7,DE,UNL Gameday Red 7,Schools,Lincoln
+12178,2f92,UNL Red 8,DE,UNL Gameday Red 8,Schools,Lincoln
+12179,2f93,UNL Red 9,DE,UNL Gameday Red 9,Schools,Lincoln
+12180,2f94,UNL Red 10,DE,UNL Gameday Red 10,Schools,Lincoln
+12181,2f95,UNL White 1,D,UNL Gameday White 1,Schools,Lincoln
+12182,2f96,UNL White 2,D,UNL Gameday White 2,Schools,Lincoln
+12183,2f97,UNL White 3,D,UNL Gameday White 3,Schools,Lincoln
+12184,2f98,UNL White 4,D,UNL Gameday White 4,Schools,Lincoln
+12185,2f99,UNL White 5,D,UNL Gameday White 5,Schools,Lincoln
+12186,2f9a,UNL White 6,D,UNL Gameday White 6,Schools,Lincoln
+12502,30d6,Lincoln FD 2 Tac,D,Fire 2 Tac,Fire-Tac,Lincoln
+12503,30d7,Lincoln FD 3 Tac,D,Fire 3 Tac,Fire-Tac,Lincoln
+12504,30d8,Lincoln FD 4 Tac,D,Fire 4 Tac,Fire-Tac,Lincoln
+12505,30d9,Lincoln FD 5 Tac,D,Fire 5 Tac,Fire-Tac,Lincoln
+12506,30da,Lincoln FD 6 Tac,D,Fire 6 Tac,Fire-Tac,Lincoln
+12507,30db,Lincoln FD 7 Tac,D,Fire 7 Tac,Fire-Tac,Lincoln
+12508,30dc,Lincoln FD 8 Tac,D,Fire 8 Tac,Fire-Tac,Lincoln
+12509,30dd,Lincoln FD9 Tac,D,Fire 9 Tac,Fire-Tac,Lincoln
+12510,30de,Lincoln FD 10 Tc,D,Fire 10 Tac,Fire-Tac,Lincoln
+12511,30df,Lincoln FD 11 Tc,D,Fire 11 Tac,Fire-Tac,Lincoln
+12512,30e0,Lincoln FD 12 Tc,D,Fire 12 Tac,Fire-Tac,Lincoln
+12520,30e8,Lincoln Emerg Ts,D,Emergency Test,Other,Lincoln
+12521,30e9,Lincoln FD Alert,D,Fire Station Alerting,Fire Dispatch,Lincoln
+12522,30ea,Lincoln FD Com,D,Fire Common,Fire-Talk,Lincoln
+12523,30eb,Lincoln FD Com,D,Fire Traning Common,Fire-Talk,Lincoln
+12524,30ec,Lincoln FD Log,D,Fire Logistics Common,Fire-Talk,Lincoln
+12526,30ee,Lincoln USAR,D,Urban Search  Rescue,Emergency Ops,Lincoln
+12527,30ef,Lincoln FD Plans,D,Fire Plans Common,Fire-Tac,Lincoln
+12531,30f3,Lincoln FD HZMT1,D,Fire Hazmat 1,Fire-Tac,Lincoln
+12532,30f4,Lincoln FD HZMT2,D,Fire Hazmat 2,Fire-Tac,Lincoln
+12533,30f5,Lincoln FD HZMT3,D,Fire Hazmat 3,Fire-Tac,Lincoln
+12534,30f6,Lincoln FD HZMT4,D,Fire Hazmat 4,Fire-Tac,Lincoln
+12535,30f7,ANG Fire 1,D,Fire 1,Fire Dispatch,Air National Guard  Lincoln
+12601,3139,Lincoln Snow 1,D,Snow Route 1,Public Works,Lincoln
+12602,313a,Lincoln Snow 2,D,Snow Route 2,Public Works,Lincoln
+12640,3160,StarTran An,D,StarTran Announcements,Transportation,Lincoln
+12641,3161,StarTran Van,D,StarTran Handivan,Transportation,Lincoln
+12642,3162,StarTran Reply,D,StarTran Reply,Transportation,Lincoln
+12643,3163,StarTran Tac 1,D,StarTran Tac 1,Transportation,Lincoln
+12650,316a,LAA Security,D,Lincoln Airport Authority Security,Law Dispatch,Lincoln
+12660,3174,LAA Operations,D,Lincoln Airport Authority Operations,Public Works,Lincoln
+12711,31a7,Lincoln ACO,D,Animal Control,Public Works,Lincoln
+12801,3201,Lincoln Interp 1,D,Interoperability 1,Interop,Lincoln
+12802,3202,Lincoln Interp 2,D,Interoperability 2,Interop,Lincoln
+12803,3203,Lincoln Interp 3,D,Interoperability 3,Interop,Lincoln
+12804,3204,Lincoln Interp 4,D,Interoperability 4,Interop,Lincoln
+12805,3205,Lincoln Interp 5,D,Interoperability 5,Interop,Lincoln
+12806,3206,Lincoln Interp 6,D,Interoperability 6,Interop,Lincoln
+12807,3207,Lincoln Interp 7,D,Interoperability 7,Interop,Lincoln
+12808,3208,Lincoln Interp 8,D,Interoperability 8,Interop,Lincoln
+12809,3209,Lincoln Interp 9,D,Interoperability 9,Interop,Lincoln
+12810,320a,Lincoln Interp10,D,Interoperability 10,Interop,Lincoln
+12811,320b,Lincoln Interp11,D,Interoperability 11,Interop,Lincoln
+12812,320c,Lincoln Interp12,D,Interoperability 12,Interop,Lincoln
+12813,320d,Lincoln Interp13,D,Interoperability 13,Interop,Lincoln
+12814,320e,Lincoln Interp14,D,Interoperability 14,Interop,Lincoln
+12815,320f,Lincoln Interp15,D,Interoperability 15,Interop,Lincoln
+12816,3210,Lincoln Interp16,D,Interoperability 16,Interop,Lincoln
+12830,321e,BNSF Police,D,Police,Law Dispatch,BNSF Railway
+12840,3228,CHI St Elizabeth,D,CHI Health St Elizabeth,Hospital,Lincoln
+12841,3229,Bryan Med West,D,Bryan Medical Center West,Hospital,Lincoln
+12842,322a,Bryan Med East,D,Bryan Medical Center East,Hospital,Lincoln
+12843,322b,CHI Heart,D,CHI Health Nebraska Heart,Hospital,Lincoln
+12844,322c,Midwest MedTrans,D,Midwest Medical Transport Company,EMS Dispatch,Lincoln
+12845,322d,LanCoLinc EMA 2,D,Emergency Management Talk 2,Emergency Ops,Lancaster County
+12851,3233,Lincoln MCI 1,DE,Mass Casualty Incident 1,Multi-Tac,Lincoln
+12852,3234,Lincoln MCI 2,DE,Mass Casualty Incident 2,Multi-Tac,Lincoln
+12853,3235,Lincoln MCI 3,DE,Mass Casualty Incident 3,Multi-Tac,Lincoln
+12854,3236,Lincoln MCI 4,DE,Mass Casualty Incident 4,Multi-Tac,Lincoln
+12855,3237,Lincoln MCI 5,DE,Mass Casualty Incident 5,Multi-Tac,Lincoln
+12856,3238,Lincoln MCI 6,DE,Mass Casualty Incident 6,Multi-Tac,Lincoln
+12857,3239,Lincoln MCI 7,DE,Mass Casualty Incident 7,Multi-Tac,Lincoln
+12858,323a,Lincoln MCI 8,DE,Mass Casualty Incident 8,Multi-Tac,Lincoln
+12859,323b,Lincoln MCI 9,DE,Mass Casualty Incident 9,Multi-Tac,Lincoln
+12860,323c,Lincoln MCI 10,DE,Mass Casualty Incident 10,Multi-Tac,Lincoln
+12861,323d,Lincoln MCI 11,DE,Mass Casualty Incident 11,Multi-Tac,Lincoln
+12862,323e,Lincoln MCI 12,DE,Mass Casualty Incident 12,Multi-Tac,Lincoln
+12863,323f,Lincoln MCI 13,DE,Mass Casualty Incident 13,Multi-Tac,Lincoln
+12864,3240,Lincoln MCI 14,DE,Mass Casualty Incident 14,Multi-Tac,Lincoln
+12865,3241,Lincoln MCI 15,DE,Mass Casualty Incident 15,Multi-Tac,Lincoln
+12866,3242,Lincoln MCI 16,DE,Mass Casualty Incident 16,Multi-Tac,Lincoln
+12871,3247,Lincoln Train 1,DE,Training 1,Multi-Talk,Lincoln
+12872,3248,Lincoln Train 2,DE,Training 2,Multi-Talk,Lincoln
+12873,3249,Lincoln Train 3,DE,Training 3,Multi-Talk,Lincoln
+12874,324a,Lincoln Train 4,DE,Training 4,Multi-Talk,Lincoln
+12875,324b,Lincoln Train 5,DE,Training 5,Multi-Talk,Lincoln
+12876,324c,Lincoln Train 6,DE,Training 6,Multi-Talk,Lincoln
+12877,324d,Lincoln Train 7,DE,Training 7,Multi-Talk,Lincoln
+12878,324e,Lincoln Train 8,DE,Training 8,Multi-Talk,Lincoln
+12879,324f,Lincoln Train 9,D,Training 9,Multi-Talk,Lincoln
+12880,3250,Lincoln Train 10,D,Training 10,Multi-Talk,Lincoln
+12881,3251,Lincoln Train 11,D,Training 11,Multi-Talk,Lincoln
+12882,3252,Lincoln Train 12,D,Training 12,Multi-Talk,Lincoln
+12883,3253,Lincoln Train 13,D,Training 13,Multi-Talk,Lincoln
+12884,3254,Lincoln Train 14,D,Training 14,Multi-Talk,Lincoln
+12885,3255,Lincoln Train 15,D,Training 15,Multi-Talk,Lincoln
+13000,32c8,RROMRS,D,Rural Region One Regional Response System,Interop,Medical Regional Response System
+13001,32c9,SENHCC,D,Southeast Nebraska Healthcare Coalition,Interop,Medical Regional Response System
+13002,32ca,TRIMRS,D,TriCities Medical Response System,Interop,Medical Regional Response System
+13003,32cb,NPHCC,D,Nebraska Plains Healthcare Coalition ,Interop,Medical Regional Response System
+13004,32cc,PRMRS,D,Panhandle Region Medical Response System,Interop,Medical Regional Response System
+13005,32cd,OMHCC,D,Omaha Metropolitan Medical Response System,Interop,Medical Regional Response System
+20265,4f29,GP N SE,D,North  Southeast,Law Tac,Game and Parks
+30051,7563,USMS Ops,De,Operations,Federal,United States Marshals Service
+30052,7564,USMS Warrant,De,Warrant Service,Federal,United States Marshals Service
+30053,7565,USMS Special Ops,De,Special Operations,Federal,United States Marshals Service
+30101,7595,FWS Secure,D,Secure,Federal,US Fish  Wildlife Service
+30102,7596,FWS Crescent Lk1,D,Crescent Lake 1,Federal,US Fish  Wildlife Service
+30103,7597,FWS Crescent Lk2,D,Crescent Lake 2,Federal,US Fish  Wildlife Service
+30104,7598,FWS Fort Niob 1,D,Fort Niobrara 1,Federal,US Fish  Wildlife Service
+30105,7599,FWS Fort Niob 2,D,Fort Niobrara 2,Federal,US Fish  Wildlife Service
+30108,759c,FWS RBWMD,D,Rainwater Basin Wetland Management District,Federal,US Fish  Wildlife Service
+30201,75f9,FBI Common,De,Common,Federal,Federal Bureau of Investigation
+30202,75fa,FBI Air,De,Air Operations,Federal,Federal Bureau of Investigation
+30203,75fb,FBI North Platte,De,North Platte Area,Federal,Federal Bureau of Investigation
+30204,75fc,FBI Grand Island,De,Grand Island Area,Federal,Federal Bureau of Investigation
+30205,75fd,FBI Lincoln,De,Lincoln Area,Federal,Federal Bureau of Investigation
+30206,75fe,FBI Omaha,De,Omaha Area,Federal,Federal Bureau of Investigation
+30207,75ff,FBI Sioux City,De,Sioux City Area,Federal,Federal Bureau of Investigation
+30251,762b,DEA Omaha 1,De,Omaha 1,Federal,Drug Enforcement Agency
+30252,762c,DEA Omaha 2,De,Omaha 2,Federal,Drug Enforcement Agency
+30253,762d,DEA Omaha 3,De,Omaha 3,Federal,Drug Enforcement Agency
+30254,762e,DEA Omaha 4,De,Omaha 4,Federal,Drug Enforcement Agency
+30255,762f,DEA Omaha 5,De,Omaha 5,Federal,Drug Enforcement Agency
+30256,7630,DEA Omaha 6,De,Omaha 6,Federal,Drug Enforcement Agency
+30257,7631,DEA Sioux City 1,De,Sioux City 1,Federal,Drug Enforcement Agency
+30258,7632,DEA Sioux City 2,De,Sioux City 2,Federal,Drug Enforcement Agency
+30259,7633,DEA Sioux City 3,De,Sioux City 3,Federal,Drug Enforcement Agency
+30260,7634,DEA Sioux City 4,De,Sioux City 4,Federal,Drug Enforcement Agency
+30261,7635,DEA Travel,De,Travel Channel,Federal,Drug Enforcement Agency
+30451,76f3,72nd Civil Spt 1,De,72nd Civil Support Team 1,Military,Army National Guard
+30452,76f4,72nd Civil Spt 2,De,72nd Civil Support Team 2,Military,Army National Guard
+30453,76f5,72nd Civil Spt 3,De,72nd Civil Support Team 3,Military,Army National Guard
+30676,77d4,NENG Call,D,Calling,Military,Army National Guard
+30677,77d5,NENG Tac 1,D,Tactical 1,Military,Army National Guard
+30679,77d7,NENG 3,De,Secure 3,Military,Army National Guard
+30680,77d8,NENG 4,D,Air 4,Military,Army National Guard
+31951,7ccf,Comms Demo 1,D,Communications Demonstration 1,Public Works,Office of the CIO
+31952,7cd0,Comms Demo 2,D,Communications Demonstration 2,Public Works,Office of the CIO
+31953,7cd1,Comms Demo 3,D,Communications Demonstration 3,Public Works,Office of the CIO
+31954,7cd2,Comms Demo 4,D,Communications Demonstration 4,Public Works,Office of the CIO
+31961,7cd9,Motorola Demo 1,D,Motorola Demonstration 1,Public Works,Office of the CIO
+31962,7cda,Motorola Demo 2,D,Motorola Demonstration 2,Public Works,Office of the CIO
+31963,7cdb,Motorola Demo 3,D,Motorola Demonstration 3,Public Works,Office of the CIO
+31964,7cdc,Motorola Demo 4,D,Motorola Demonstration 4,Public Works,Office of the CIO
+31965,7cdd,Motorola Demo 5,D,Motorola Demonstration 5,Public Works,Office of the CIO
+31966,7cde,EFJ Demo,D,EF Johnson Demonstration ,Public Works,Office of the CIO
+31981,7ced,Kenwood Demo,D,Kenwood Demonstration,Public Works,Office of the CIO
+31991,7cf7,BK Relm Demo,D,BK Relm Demonstration,Public Works,Office of the CIO
+40900,9fc4,BuffaloCo Correc,D,County Corrections,Corrections,Buffalo County
+50000,c350,HROC Call,D,Troop HQ ROC Call,Interop,Statewide Interoperbility
+50001,c351,HROC 1,D,Troop HQ ROC 1,Interop,Statewide Interoperbility
+50002,c352,HROC 2,D,Troop HQ ROC 2,Interop,Statewide Interoperbility
+50003,c353,HROC 3,D,Troop HQ ROC 3,Interop,Statewide Interoperbility
+50004,c354,HROC 4,D,Troop HQ ROC 4,Interop,Statewide Interoperbility
+50005,c355,AROC Call,D,Troop A ROC Call,Interop,Statewide Interoperbility
+50006,c356,AROC 1,D,Troop A ROC 1,Interop,Statewide Interoperbility
+50007,c357,AROC 2,D,Troop A ROC 2,Interop,Statewide Interoperbility
+50008,c358,AROC 3,D,Troop A ROC 3,Interop,Statewide Interoperbility
+50009,c359,AROC 4,D,Troop A ROC 4,Interop,Statewide Interoperbility
+50010,c35a,BROC Call,D,Troop B ROC Call,Interop,Statewide Interoperbility
+50011,c35b,BROC 1,D,Troop B ROC 1,Interop,Statewide Interoperbility
+50012,c35c,BROC 2,D,Troop B ROC 2,Interop,Statewide Interoperbility
+50013,c35d,BROC 3,D,Troop B ROC 3,Interop,Statewide Interoperbility
+50014,c35e,BROC 4,D,Troop B ROC 4,Interop,Statewide Interoperbility
+50015,c35f,CROC Call,D,Troop C ROC Call,Interop,Statewide Interoperbility
+50016,c360,CROC 1,D,Troop C ROC 1,Interop,Statewide Interoperbility
+50017,c361,CROC 2,D,Troop C ROC 2,Interop,Statewide Interoperbility
+50018,c362,CROC 3,D,Troop C ROC 3,Interop,Statewide Interoperbility
+50019,c363,CROC 4,D,Troop C ROC 4,Interop,Statewide Interoperbility
+50020,c364,DROC Call,D,Troop D ROC Call,Interop,Statewide Interoperbility
+50021,c365,DROC 1,D,Troop D ROC 1,Interop,Statewide Interoperbility
+50022,c366,DROC 2,D,Troop D ROC 2,Interop,Statewide Interoperbility
+50023,c367,DROC 3,D,Troop D ROC 3,Interop,Statewide Interoperbility
+50024,c368,DROC 4,D,Troop D ROC 4,Interop,Statewide Interoperbility
+50025,c369,EROC Call,D,Troop E ROC Call,Interop,Statewide Interoperbility
+50026,c36a,EROC 1,D,Troop E ROC 1,Interop,Statewide Interoperbility
+50027,c36b,EROC 2,D,Troop E ROC 2,Interop,Statewide Interoperbility
+50028,c36c,EROC 3,D,Troop E ROC 3,Interop,Statewide Interoperbility
+50029,c36d,EROC 4,D,Troop E ROC 4,Interop,Statewide Interoperbility
+50030,c36e,Statewide M1,D,Statewide Events M1,Interop,Statewide Interoperbility
+50031,c36f,Statewide M2,D,Statewide Events M2,Interop,Statewide Interoperbility
+50032,c370,Statewide M3,D,Statewide Events M3,Interop,Statewide Interoperbility
+50033,c371,Statewide M4,D,Statewide Events M4,Interop,Statewide Interoperbility
+50034,c372,Statewide M5,D,Statewide Events M5,Interop,Statewide Interoperbility
+50035,c373,Statewide M6,D,Statewide Events M6,Interop,Statewide Interoperbility
+50036,c374,Statewide M7,De,Statewide Events M7,Interop,Statewide Interoperbility
+50037,c375,Statewide M8,De,Statewide Events M8,Interop,Statewide Interoperbility
+50038,c376,Statewide 9,De,Statewide Events 9,Interop,Statewide Interoperbility
+50039,c377,Statewide 10,De,Statewide Events 10,Interop,Statewide Interoperbility
+50040,c378,Statewide 11,D,Statewide Events 11,Interop,Statewide Interoperbility
+50041,c379,Statewide 12,D,Statewide Events 12,Interop,Statewide Interoperbility
+50042,c37a,Statewide 13,D,Statewide Events 13,Interop,Statewide Interoperbility
+50043,c37b,Statewide 14,D,Statewide Events 14,Interop,Statewide Interoperbility
+50044,c37c,Statewide 15,D,Statewide Events 15,Interop,Statewide Interoperbility
+50045,c37d,Statewide 16,D,Statewide Events 16,Interop,Statewide Interoperbility
+50047,c37f,StatewideFEDLE1,DE,FederalLocal LE 1,Interop,Statewide Interoperbility
+50048,c380,StatewideFEDLE2,DE,FederalLocal LE 2,Interop,Statewide Interoperbility
+50050,c382,Air EMS 1,D,Air Methods,EMS Dispatch,Air Ambulance
+50300,c47c,Gage Co LE,D,County Law Enforcement,Law Dispatch,Gage County
+50301,c47d,Gage SO,D,Sheriff,Law Dispatch,Gage County
+50302,c47e,Gage SO ENC,De,Sheriff Secure,Law Talk,Gage County
+50303,c47f,Gage Co SWAT,D,SWAT,Law Tac,Gage County
+50304,c480,Gage Co SWAT ENC,De,SWAT Secure,Law Talk,Gage County
+50305,c481,Gage SO Court,D,Sheriff Court Security,Security,Gage County
+50306,c482,Gage Co EMA,D,Emergency Management,Emergency Ops,Gage County
+50307,c483,Gage SO Admin,D,Sheriff Administration,Law Talk,Gage County
+50700,c60c,Madison Co SO 1,De,Sheriff 1,Law Dispatch,Madison County
+50701,c60d,Madison Co SO 2,D,Sheriff 2,Law Dispatch,Madison County
+50702,c60e,Madison SO ENC,DE,Sheriff Secure,Law Talk,Madison County
+50710,c616,Norfolk PD 1,D,Police 1 Dispatch,Law Dispatch,Norfolk
+50711,c617,Norfolk PD 2,D,Police 2,Law Tac,Norfolk
+50712,c618,Norfolk PD 3,D,Police 3,Law Tac,Norfolk
+50713,c619,Norfolk PD 4,D,Police 4,Law Tac,Norfolk
+50714,c61a,Norfolk PD Sec 1,De,Police Secure 1,Law Talk,Norfolk
+50715,c61b,Norfolk PD Sec 2,De,Police Secure 2,Law Talk,Norfolk
+50716,c61c,Madison Co TRT,De,Tactical Rescue Team,Law Tac,Madison County
+50720,c620,Norfolk FD 1,D,Fire 1,Fire Dispatch,Norfolk
+50721,c621,Norfolk FD 2,D,Fire 2,Fire-Tac,Norfolk
+50722,c622,Norfolk FD HAZMT,D,Fire Hazmat,Fire-Tac,Norfolk
+50723,c623,Norfolk FD Life,D,Fire Lifenet,Fire-Tac,Norfolk
+50730,c62a,Norfolk Streets,D,Streets,Public Works,Norfolk
+50731,c62b,Norfolk Water,D,Water,Public Works,Norfolk
+50732,c62c,Norfolk Parks,D,Parks,Public Works,Norfolk
+50733,c62d,Norfolk Eng,D,Engineering,Public Works,Norfolk
+50734,c62e,Norfolk WPC,D,Water Pollution Control,Public Works,Norfolk
+50735,c62f,Norfolk Sewer,D,Sewer,Public Works,Norfolk
+50736,c630,Norfolk SldWaste,D,Solid Waste,Public Works,Norfolk
+50740,c634,Norfolk All Call,D,Citywide All CallInterop,Multi-Dispatch,Norfolk
+50741,c635,Norfolk Event 1,D,Event 1,Multi-Tac,Norfolk
+50743,c637,Norfolk Event 3,D,Event 3,Multi-Tac,Norfolk
+51000,c738,Platte Co LE,D,County Law Enforcement,Law Dispatch,Platte County
+51001,c739,Platte SO,D,Sheriff,Law Talk,Platte County
+51002,c73a,Platte SO ENC,De,Sheriff Secure,Law Talk,Platte County
+51100,c79c,Otoe Co LE,D,County Law Enforcement,Law Dispatch,Otoe County
+51101,c79d,Otoe SO,D,Sheriff,Law Dispatch,Otoe County
+51102,c79e,Otoe SO ENC,De,Sheriff Secure,Law Talk,Otoe County
+51103,c79f,Nebraska City PD,D,Police,Law Dispatch,Nebraska City
+51200,c800,Knox Co Sheriff,D,Sheriff,Law Dispatch,Knox County
+51303,c867,Cedar CO EM,D,Emergency Management,Emergency Ops,Cedar County
+51500,c92c,Lincoln Co LE,D,County Law Enforcement,Law Dispatch,Lincoln County
+51501,c92d,Lincoln SO,D,Sheriff,Law Dispatch,Lincoln County
+51502,c92e,Lincoln SO ENC,D,Sheriff Secure,Law Talk,Lincoln County
+51511,c937,Lincoln Co EMA,D,Emergency Management,Emergency Ops,Lincoln County
+51600,c990,Seward Co LE,D,County Law Enforcement,Law Dispatch,Seward County
+51601,c991,Seward SO,D,Sheriff,Law Dispatch,Seward County
+51602,c992,Seward SO ENC,D,Sheriff Secure,Law Talk,Seward County
+51603,c993,Seward Police,D,Police,Law Dispatch,Seward City
+51604,c994,Milford Police,D,Police,Law Dispatch,Milford
+51700,c9f4,York SO 1,D,Sheriff 1,Law Dispatch,York County
+51701,c9f5,York SO 2,D,Sheriff 2,Law Dispatch,York County
+51703,c9f7,York Police,D,Police,Law Dispatch,York City
+51900,cabc,Richardson SO 1,D,Sheriff 1,Law Dispatch,Richardson County
+51901,cabd,Richardson SO 2,D,Sheriff 2,Law Tac,Richardson County
+51902,cabe,Richardson SO EN,D,Sheriff Secure,Law Talk,Richardson County
+52000,cb20,Cass Co LE,D,County Law Enforcement,Law Dispatch,Cass County
+52001,cb21,Cass Co Fire,D,County Fire,Fire Dispatch,Cass County
+52002,cb22,Cass Co 911,D,911 Center,Emergency Ops,Cass County
+52300,cc4c,Boone Co LE,D,County Law Enforcement,Law Dispatch,Boone County
+52301,cc4d,Boone SO,D,Sheriff,Law Dispatch,Boone County
+52302,cc4e,Boone SO ENC,D,Sheriff Secure,Law Talk,Boone County
+52500,cd14,Butler CO LE,D,County Law Enforcement,Law Dispatch,Butler County
+52501,cd15,Butler SO,D,Sheriff,Law Tac,Butler County
+52502,cd16,Butler SO ENC,De,Sheriff Secure,Law Talk,Butler County
+52503,cd17,Butler SO Admin,De,Sheriff Administration,Law Talk,Butler County
+52504,cd18,Butler Co Fire,D,Fire,Fire Dispatch,Butler County
+53100,cf6c,Burt Co Disp 1,D,Dispatch 1,Law Dispatch,Burt County
+53600,d160,Holt Co LE,D,County Law Enforcement,Law Dispatch,Holt County
+53900,d28c,Cheyenne SO,D,Sheriff,Law Dispatch,Cheyenne County
+53902,d28e,Cheyenne SO ENC,De,Sheriff Secure,Law Talk,Cheyenne County
+54100,d354,Polk SO 1,D,Sheriff 1,Law Dispatch,Polk County
+54101,d355,Polk SO 2,D,Sheriff 2,Law Tac,Polk County
+54102,d356,Polk SO ENC,De,Sheriff Secure,Law Talk,Polk County
+54300,d41c,Colfax SO 1,D,Sheriff 1,Law Dispatch,Colfax County
+54301,d41d,Colfax SO 2,D,Sheriff 2,Law Tac,Colfax County
+54302,d41e,Colfax SO ENC,D,Sheriff Secure,Law Talk,Colfax County
+54303,d41f,Schuyler PD Disp,D,Police,Law Dispatch,Schuyler
+54304,d420,Schuyler PD ENC,De,Police Secure,Law Talk,Schuyler
+54305,d421,Colfax Co FD,D,County Fire,Fire Dispatch,Colfax County
+54400,d480,Nemaha CO LE,D,County Law Enforcement,Law Dispatch,Nemaha County
+54401,d481,Nemaha SO,D,Sheriff,Law Tac,Nemaha County
+54402,d482,Nemaha SO ENC,D,Sheriff Secure,Law Talk,Nemaha County
+54403,d483,Nemaha SO Admin,D,Sheriff Administration,Law Talk,Nemaha County
+54600,d548,Merrick Co LE,D,County Law Enforcement,Law Dispatch,Merrick County
+54602,d54a,Merrick SO ENC,D,Sheriff Secure,Law Talk,Merrick County
+54803,d613,Red Willow FD,D,County Fire,Fire Dispatch,Red Willow County
+54900,d674,Howard Co LE,D,County Law Enforcement,Law Dispatch,Howard County
+54901,d675,Howard SO,D,Sheriff,Law Tac,Howard County
+54902,d676,Howard SO ENC,D,Sheriff Secure,Law Talk,Howard County
+55042,d702,Pawnee SO ENC,De,Sheriff Secure,Law Talk,Pawnee County
+55062,d716,Sherman SO ENC,De,Sheriff Secure,Law Talk,Sherman County
+55300,d804,Stanton Sheriff,D,Sheriff,Law Dispatch,Stanton County
+55301,d805,Stanton SOP 1,D,SOP 1,Law Tac,Stanton County
+55302,d806,Stanton SO SEC,DE,Sheriff Secure,Law Tac,Stanton County
+55400,d868,Pawnee Co LE,D,County Law Enforcement,Law Dispatch,Pawnee County
+55401,d869,Pawnee SO,D,Sheriff,Law Tac,Pawnee County
+55601,d931,Sherman SO,D,Sheriff,Law Dispatch,Sherman County
+55700,d994,Johnson Co LE,D,County Law Enforcement,Law Dispatch,Johnson County
+55701,d995,Johnson SO,D,Sheriff,Law Tac,Johnson County
+55702,d996,Johnson SO ENC,De,Sheriff Secure,Law Talk,Johnson County
+55800,d9f8,Nance Co LE,D,County Law Enforcement,Law Dispatch,Nance County
+55801,d9f9,Nance SO,D,Sheriff,Law Tac,Nance County
+55802,d9fa,Nance SO ENC,De,Sheriff Secure,Law Talk,Nance County
+56100,db24,Sheridan Co LE,D,County Law Enforcement,Law Dispatch,Sheridan County
+56101,db25,Sheridan SO,D,Sheriff,Law Tac,Sheridan County
+56102,db26,Sheridan SO ENC,De,Sheriff Secure,Law Talk,Sheridan County
+56103,db27,Gordon Police,D,Police,Law Dispatch,Gordon
+56201,db89,Greeley SO,D,Sheriff,Law Dispatch,Greeley County
+56202,db8a,Greeley SO ENC,De,Sheriff Secure,Law Talk,Greeley County
+56300,dbec,Boyd Co LE,D,County Law Enforcement,Law Dispatch,Boyd County
+56301,dbed,Boyd SO,D,Sheriff,Law Tac,Boyd County
+56302,dbee,Boyd SO ENC,De,Sheriff Secure,Law Talk,Boyd County
+56600,dd18,Cherry Co LE,D,County Law Enforcement,Law Dispatch,Cherry County
+56800,dde0,Keith Co LE,D,County Law Enforcement,Law Dispatch,Keith County
+56801,dde1,Keith SO,D,Sheriff,Law Tac,Keith County
+56802,dde2,Keith SO ENC,D,Sheriff Secure,Law Talk,Keith County
+56803,dde3,Ogallala PD,D,Police,Law Dispatch,Ogallala
+56804,dde4,Ogallala FD,D,Fire,Fire Dispatch,Ogallala
+56900,de44,Dawes Co LE,D,County Law Enforcement,Law Dispatch,Dawes County
+57100,df0c,Kimball SO 1,D,Sheriff 1,Law Dispatch,Kimball County
+57101,df0d,Kimball SO 2,D,Sheriff 2,Law Dispatch,Kimball County
+57102,df0e,Kimball SO 3,De,Sheriff 3 Secure,Law Talk,Kimball County
+57103,df0f,Kimball Police,De,Police,Law Tac,Kimball
+57203,df73,Imperial Police,D,Police,Law Dispatch,Imperial
+57400,e038,Perkins Co LE,D,County Law Enforcement,Law Dispatch,Perkins County
+57401,e039,Perkins SO,D,Sheriff,Law Tac,Perkins County
+57402,e03a,Perkins SO ENC,De,Sheriff Secure,Law Talk,Perkins County
+57801,e1c9,Deuel SO,D,Sheriff,Law Dispatch,Deuel County
+57802,e1ca,Deuel SO ENC,De,Sheriff Secure,Law Talk,Deuel County
+57803,e1cb,Deuel Co Fire,D,County Fire,Fire Dispatch,Deuel County
+58001,e291,Sioux SO,D,Sheriff,Law Tac,Sioux County
+58302,e3be,Garfield SO ENC,De,Sheriff Secure,Law Talk,Garfield County
+58701,e54d,Logan SO,D,Sheriff,Law Tac,Logan County
+58702,e54e,Logan SO ENC,De,Sheriff Secure,Law Talk,Logan County
+58800,e5b0,Loup Co LE,D,County Law Enforcement,Law Dispatch,Loup County
+58803,e5b3,Loup Co EMA,D,Emergency Management,Emergency Ops,Loup County
+59201,e741,Grant SO,D,Sheriff,Law Tac,Grant County
+59301,e7a5,Hooker SO,D,Sheriff,Law Tac,Hooker County
+59302,e7a6,Hooker SO ENC,D,Sheriff Secure,Law Talk,Hooker County
+59303,e7a7,Hooker Co PS,D,County Public Safety,Multi-Dispatch,Hooker County
+60001,ea61,SFM Fire 1,D,Fire 1,Fire-Tac,State Fire Marshal
+60002,ea62,SFM Fire 2,D,Fire 2,Fire-Tac,State Fire Marshal
+60003,ea63,SFM Fire 3 ENC,D,Fire 3 Secure,Fire-Tac,State Fire Marshal
+60004,ea64,SFM District A,D,District A,Fire-Tac,State Fire Marshal
+60005,ea65,SFM District BC,D,District BC,Fire-Tac,State Fire Marshal
+60006,ea66,SFM Fire 4,De,Fire 4,Fire-Tac,State Fire Marshal
+60007,ea67,SFM Invest,D,Investigations,Fire-Tac,State Fire Marshal
+60008,ea68,SFM TRN,D,Training,Fire-Talk,State Fire Marshal
+60009,ea69,SFM Fuel,D,Fuel,Fire-Talk,State Fire Marshal
+60010,ea6a,SFM Call,D,Calling,Fire Dispatch,State Fire Marshal
+60125,eadd,NDCS Transfer,De,Inmate Transfers,Corrections,Department of Correctional Services
+60126,eade,NDCS OCC,D,Omaha Correctional CenterNebraska Correctional Youth Facility Transportation,Corrections,Department of Correctional Services
+60127,eadf,NDCS NCYF,D,Nebraska Correctional Youth Facility,Corrections,Department of Correctional Services
+60128,eae0,NDCS CCCO,D,Community Corrections Center  Omaha,Corrections,Department of Correctional Services
+60129,eae1,NDCS NSP,D,Nebraska State Penitentiary  Lincoln,Corrections,Department of Correctional Services
+60130,eae2,NDCS DEC,D,Diagnostic and Evaluation Center  Lincoln,Corrections,Department of Correctional Services
+60131,eae3,NDCS LCC,D,Lincoln Correctional Center,Corrections,Department of Correctional Services
+60132,eae4,NDCS CCCL,D, Community Corrections Center  Lincoln,Corrections,Department of Correctional Services
+60133,eae5,NDCS TSCI,D,Tecumseh State Correctional Institution ,Corrections,Department of Correctional Services
+60134,eae6,NDCS NCCW,D,Nebraska Correctional Center for Women  York,Public Works,Department of Correctional Services
+60135,eae7,NDCS WEC,D, Work Ethic Camp  McCook,Corrections,Department of Correctional Services
+60251,eb5b,GP NW Common,D,Northwest Common,Law Dispatch,Game and Parks
+60252,eb5c,GP NW Tactical,D,Northwest Tactical,Law Tac,Game and Parks
+60253,eb5d,GP N NW,D,North Northwest,Law Dispatch,Game and Parks
+60254,eb5e,GP S NW,D,S NW,Law Dispatch,Game and Parks
+60255,eb5f,GP NE Common,D,Northeast Common,Law Dispatch,Game and Parks
+60256,eb60,GP NE Tactical,D,Northeast Tactical,Law Tac,Game and Parks
+60259,eb63,GP SW Common,D,Southwest Common,Law Dispatch,Game and Parks
+60260,eb64,GP SW Tactical,D,Southwest Tactical,Law Tac,Game and Parks
+60261,eb65,GP E SW,D,East  Southwest,Law Dispatch,Game and Parks
+60262,eb66,GP W SW,D,West  Southwest,Law Tac,Game and Parks
+60263,eb67,GP SE Common,D,Southeast Common,Law Dispatch,Game and Parks
+60264,eb68,GP SE Tac,De,Southeast Tac,Law Talk,Game and Parks
+60266,eb6a,GP S SE,D,South  Southeast,Law Tac,Game and Parks
+60301,eb8d,NEMA 1,D,NEMA 1,Emergency Ops,Emergency Management
+60302,eb8e,NEMA 2 ENC,De,NEMA 2 Secure,Emergency Ops,Emergency Management
+60303,eb8f,NEMA 3,D,NEMA 3,Emergency Ops,Emergency Management
+60304,eb90,NEMA 4 ENC,De,NEMA 4 Secure,Emergency Ops,Emergency Management
+60351,ebbf,UP Common,D,Common,Railroad,Union Pacific Railroad
+60352,ebc0,UP Police 1,D,Police 1,Law Dispatch,Union Pacific Railroad
+60353,ebc1,UP Police 2,D,Police 2,Law Dispatch,Union Pacific Railroad
+60355,ebc3,UP Police T2,D,Police Tac 2,Law Tac,Union Pacific Railroad
+60376,ebd8,NE Elec Division,D,Nebraska State Electrical Division,Public Works,Nebraska State Electrical Division
+60401,ebf1,NDOT 1 District,D,District 1  District Wide,Public Works,Department of Transportation
+60402,ebf2,NDOT 1 Construct,D,District 1  Construction,Public Works,Department of Transportation
+60403,ebf3,NDOT 1 Mtce,D,District 1  Maintenance,Public Works,Department of Transportation
+60404,ebf4,NDOT 1 110,D,District 1  110,Public Works,Department of Transportation
+60405,ebf5,NDOT 1 Linc Sup,D,District 1  Lincoln Superior Street 111,Public Works,Department of Transportation
+60406,ebf6,NDOT 1 Seward,D,District 1  Seward 112,Public Works,Department of Transportation
+60407,ebf7,NDOT 1 DavidCity,D,District 1  David City 113,Public Works,Department of Transportation
+60408,ebf8,NDOT 1 Wahoo,D,District 1  Wahoo 114,Public Works,Department of Transportation
+60409,ebf9,NDOT 1 Greenwood,D,District 1  Greenwood 115,Public Works,Department of Transportation
+60410,ebfa,NDOT 1 120,D,District 1  120,Public Works,Department of Transportation
+60411,ebfb,NDOT 1 121,D,District 1  121,Public Works,Department of Transportation
+60412,ebfc,NDOT 1 Dorchster,D,District 1  Dorchester 122,Public Works,Department of Transportation
+60413,ebfd,NDOT 1 123,D,District 1  123,Public Works,Department of Transportation
+60414,ebfe,NDOT 1 124,D,District 1  124,Public Works,Department of Transportation
+60415,ebff,NDOT 1 Linc 125,D,District 1  Lincoln Salt Valley 125,Public Works,Department of Transportation
+60416,ec00,NDOT 1 130,D,District 1  130,Public Works,Department of Transportation
+60417,ec01,NDOT 1 Palmyra,D,District 1  Palmyra 131,Public Works,Department of Transportation
+60418,ec02,NDOT 1 Neb City,D,District 1  Nebraska City 132,Public Works,Department of Transportation
+60419,ec03,NDOT 1 Tecumseh,D,District 1  Tecumseh 133,Public Works,Department of Transportation
+60420,ec04,NDOT 1 Auburn,D,District 1  Auburn 134,Public Works,Department of Transportation
+60421,ec05,NDOT 1 PawneeCty,D,District 1  Pawnee City 135,Public Works,Department of Transportation
+60422,ec06,NDOT 2 District,D,District 2  District Wide,Public Works,Department of Transportation
+60423,ec07,NDOT 2 Construct,D,District 2  Construction,Public Works,Department of Transportation
+60424,ec08,NDOT 2 Mtce,D,District 2  Maintenance,Public Works,Department of Transportation
+60425,ec09,NDOT 2 210,D,District 2  210,Public Works,Department of Transportation
+60426,ec0a,NDOT 2 Omaha 108,D,District 2  Omaha 108 211,Public Works,Department of Transportation
+60427,ec0b,NDOT 2 Omaha N,D,District 2  Omaha Mormon Bridge 212,Public Works,Department of Transportation
+60428,ec0c,NDOT 2 Omaha S,D,District 2  Omaha South 213,Public Works,Department of Transportation
+60429,ec0d,NDOT 2 220,D,District 2  220,Public Works,Department of Transportation
+60430,ec0e,NDOT 2 Blair,D,District 2  Blair 221,Public Works,Department of Transportation
+60431,ec0f,NDOT 2 Fremont,D,District 2  Fremont 222,Public Works,Department of Transportation
+60432,ec10,NDOT 2 230,D,District 2  230,Public Works,Department of Transportation
+60433,ec11,NDOT 2 Road Mrk,D,District 2  Road Marking 231,Public Works,Department of Transportation
+60434,ec12,NDOT 2 Elkhorn,D,District 2  Elkhorn 232,Public Works,Department of Transportation
+60435,ec13,NDOT 2 Gretna,D,District 2  Gretna 234,Public Works,Department of Transportation
+60436,ec14,NDOT 2 Omaha,D,District 2  Plattsmouth 236,Public Works,Department of Transportation
+60437,ec15,NDOT 3 District,D,District 3  District Wide,Public Works,Department of Transportation
+60438,ec16,NDOT 3 Construct,D,District 3  Construction,Public Works,Department of Transportation
+60439,ec17,NDOT 3 Mtce,D,District 3  Maintenance,Public Works,Department of Transportation
+60440,ec18,NDOT 3 310,D,District 3  310,Public Works,Department of Transportation
+60441,ec19,NDOT 3 Columbus,D,District 3  Columbus 311,Public Works,Department of Transportation
+60442,ec1a,NDOT 3 313,D,District 3  313,Public Works,Department of Transportation
+60443,ec1b,NDOT 3 HumpClrk,D,District 3  HumphreyClarkson 314,Public Works,Department of Transportation
+60444,ec1c,NDOT 3 Plainview,D,District 3  Plainview 320,Public Works,Department of Transportation
+60445,ec1d,NDOT 3 321,D,District 3  321,Public Works,Department of Transportation
+60446,ec1e,NDOT 3 322,D,District 3  322,Public Works,Department of Transportation
+60447,ec1f,NDOT 3 324,D,District 3  324,Public Works,Department of Transportation
+60448,ec20,NDOT 3 325,D,District 3  325,Public Works,Department of Transportation
+60449,ec21,NDOT 3 330,D,District 3  330,Public Works,Department of Transportation
+60450,ec22,NDOT 3 Norfolk S,D,District 3  Norfolk 331,Public Works,Department of Transportation
+60451,ec23,NDOT 3 332,D,District 3  332,Public Works,Department of Transportation
+60452,ec24,NDOT 3 W Point,D,District 3  West Point 333,Public Works,Department of Transportation
+60453,ec25,NDOT 3 340,D,District 3  340 Areawide 341 342 343,Public Works,Department of Transportation
+60454,ec26,NDOT 3 S Sioux,D,District 3  South Sioux City 341,Public Works,Department of Transportation
+60455,ec27,NDOT 3 Lyons,D,District 3  Lyons 342,Public Works,Department of Transportation
+60456,ec28,NDOT 3 350,D,District 3  350,Public Works,Department of Transportation
+60457,ec29,NDOT 3 Wayne,D,District 3  Wayne 351,Public Works,Department of Transportation
+60458,ec2a,NDOT 3 Crofton,D,District 3  CroftonHartington 352,Public Works,Department of Transportation
+60459,ec2b,NDOT 3 LarlNewC,D,District 3  LaurelNew Castle 353,Public Works,Department of Transportation
+60460,ec2c,NDOT 4 District,D,District 4  District Wide,Public Works,Department of Transportation
+60461,ec2d,NDOT 4 Construct,D,District 4  Construction,Public Works,Department of Transportation
+60462,ec2e,NDOT 4 Mtce,D,District 4  Maintenance,Public Works,Department of Transportation
+60463,ec2f,NDOT 4 410,D,District 4  410,Public Works,Department of Transportation
+60464,ec30,NDOT 4 411,D,District 4  411,Public Works,Department of Transportation
+60465,ec31,NDOT 4 412,D,District 4  412,Public Works,Department of Transportation
+60466,ec32,NDOT 4 413,D,District 4  413,Public Works,Department of Transportation
+60467,ec33,NDOT 4 Greeley,D,District 4  Greeley 414,Public Works,Department of Transportation
+60468,ec34,NDOT 4 415,D,District 4  415,Public Works,Department of Transportation
+60469,ec35,NDOT 4 Boelus,D,District 4  Boelus 416,Public Works,Department of Transportation
+60470,ec36,NDOT 4 430,D,District 4  430,Public Works,Department of Transportation
+60471,ec37,NDOT 4 431,D,District 4  431,Public Works,Department of Transportation
+60472,ec38,NDOT 4 432,D,District 4  432,Public Works,Department of Transportation
+60473,ec39,NDOT 4 433,D,District 4  433,Public Works,Department of Transportation
+60474,ec3a,NDOT 4 Osceola,D,District 4  Osceloa 435,Public Works,Department of Transportation
+60475,ec3b,NDOT 4 440,D,District 4  440,Public Works,Department of Transportation
+60476,ec3c,NDOT 4 Hwy 30A,D,District 4  Highway 30A 441,Public Works,Department of Transportation
+60477,ec3d,NDOT 4 Grand Is,D,District 4  Grand Island 442,Public Works,Department of Transportation
+60478,ec3e,NDOT 4 Loup City,D,District 4  Loup City 443,Public Works,Department of Transportation
+60479,ec3f,NDOT 4 444,D,District 4  444,Public Works,Department of Transportation
+60480,ec40,NDOT 4 Hwy 30B,D,District 4  Highway 30B 445,Public Works,Department of Transportation
+60481,ec41,NDOT 4 Hastings,D,District 4  Hastings 450,Public Works,Department of Transportation
+60482,ec42,NDOT 4 451,D,District 4  451,Public Works,Department of Transportation
+60483,ec43,NDOT 4 452,D,District 4  452,Public Works,Department of Transportation
+60484,ec44,NDOT 4 453,D,District 4  453,Public Works,Department of Transportation
+60485,ec45,NDOT 4 Aurora,D,District 4  Aurora 454,Public Works,Department of Transportation
+60486,ec46,NDOT 5 District,D,District 5  District Wide,Public Works,Department of Transportation
+60487,ec47,NDOT 5 Construct,D,District 5  Construction,Public Works,Department of Transportation
+60488,ec48,NDOT 5 Mtce,D,District 5  Maintenance,Public Works,Department of Transportation
+60489,ec49,NDOT 5 510,D,District 5  510,Public Works,Department of Transportation
+60490,ec4a,NDOT 5 511,D,District 5  511,Public Works,Department of Transportation
+60491,ec4b,NDOT 5 512,D,District 5  512,Public Works,Department of Transportation
+60492,ec4c,NDOT 5 513,D,District 5  513,Public Works,Department of Transportation
+60493,ec4d,NDOT 5 514,D,District 5  514,Public Works,Department of Transportation
+60494,ec4e,NDOT 5 520,D,District 5  520,Public Works,Department of Transportation
+60495,ec4f,NDOT 5 522,D,District 5  522,Public Works,Department of Transportation
+60496,ec50,NDOT 5 523,D,District 5  523,Public Works,Department of Transportation
+60497,ec51,NDOT 5 Gering,D,District 5  Gering 524,Public Works,Department of Transportation
+60498,ec52,NDOT 5 I80,D,District 5  I80 530,Public Works,Department of Transportation
+60499,ec53,NDOT 5 531,D,District 5  531,Public Works,Department of Transportation
+60500,ec54,NDOT 5 Kimball,D,District 5  Kimball 532,Public Works,Department of Transportation
+60501,ec55,NDOT 5 Sidney,D,District 5  Sidney 533,Public Works,Department of Transportation
+60502,ec56,NDOT 6 District,D,District 6  District Wide,Public Works,Department of Transportation
+60503,ec57,NDOT 6 Construct,D,District 6  Construction,Public Works,Department of Transportation
+60504,ec58,NDOT 6 Mtce,D,District 6  Maintenance,Public Works,Department of Transportation
+60505,ec59,NDOT 6 Lexington,D,District 6  Lexington 610,Public Works,Department of Transportation
+60506,ec5a,NDOT 6 611,D,District 6  611,Public Works,Department of Transportation
+60507,ec5b,NDOT 6 612,D,District 6  612,Public Works,Department of Transportation
+60508,ec5c,NDOT 6 620,D,District 6  620,Public Works,Department of Transportation
+60509,ec5d,NDOT 6 621,D,District 6  621,Public Works,Department of Transportation
+60510,ec5e,NDOT 6 622,D,District 6  622,Public Works,Department of Transportation
+60511,ec5f,NDOT 6 630,D,District 6  630,Public Works,Department of Transportation
+60512,ec60,NDOT 6 631,D,District 6  631,Public Works,Department of Transportation
+60513,ec61,NDOT 6 632,D,District 6  632,Public Works,Department of Transportation
+60514,ec62,NDOT 6 BrokenBow,D,District 6  Broken Bow 640,Public Works,Department of Transportation
+60515,ec63,NDOT 6 641,D,District 6  641,Public Works,Department of Transportation
+60516,ec64,NDOT 6 642,D,District 6  642,Public Works,Department of Transportation
+60517,ec65,NDOT 6 650,D,District 6  650,Public Works,Department of Transportation
+60518,ec66,NDOT 6 651,D,District 6  651,Public Works,Department of Transportation
+60519,ec67,NDOT 6 652,D,District 6  652,Public Works,Department of Transportation
+60520,ec68,NDOT 7 District,D,District 7  District Wide,Public Works,Department of Transportation
+60521,ec69,NDOT 7 Construct,D,District 7  Construction,Public Works,Department of Transportation
+60522,ec6a,NDOT 7 Mtce,D,District 7  Maintenance,Public Works,Department of Transportation
+60523,ec6b,NDOT 7 710,D,District 7  710,Public Works,Department of Transportation
+60524,ec6c,NDOT 7 711,D,District 7  711,Public Works,Department of Transportation
+60525,ec6d,NDOT 7 Holdrege,D,District 7  Holdrege 714,Public Works,Department of Transportation
+60526,ec6e,NDOT 7 Minden,D,District 7  Minden 715,Public Works,Department of Transportation
+60527,ec6f,NDOT 7 720,D,District 7  720,Public Works,Department of Transportation
+60528,ec70,NDOT 7 Lexington,D,District 7  Lexington 721,Public Works,Department of Transportation
+60529,ec71,NDOT 7 722,D,District 7  722,Public Works,Department of Transportation
+60530,ec72,NDOT 7 723,D,District 7  723,Public Works,Department of Transportation
+60531,ec73,NDOT 7 730,D,District 7  730,Public Works,Department of Transportation
+60532,ec74,NDOT 7 731,D,District 7  731,Public Works,Department of Transportation
+60533,ec75,NDOt 7 732,D,District 7  732,Public Works,Department of Transportation
+60534,ec76,NDOT 8 District,D,NDOR 8  District Wide,Public Works,Department of Transportation
+60535,ec77,NDOT 8 Construct,D,District 8  Construction,Public Works,Department of Transportation
+60536,ec78,NDOT 8 Mtce,D,District 8  Maintenance,Public Works,Department of Transportation
+60537,ec79,NDOT 8 810,D,District 8  810,Public Works,Department of Transportation
+60538,ec7a,NDOT 8 811,D,District 8  811,Public Works,Department of Transportation
+60539,ec7b,NDOT 8 820,D,District 8  820,Public Works,Department of Transportation
+60540,ec7c,NDOT 8 821,D,District 8  821,Public Works,Department of Transportation
+60541,ec7d,NDOT 8 822,D,District 8  822,Public Works,Department of Transportation
+60542,ec7e,NDOT 8 Burwell,D,District 8  Burwell 823,Public Works,Department of Transportation
+60543,ec7f,NDOT 8 830,D,District 8  830,Public Works,Department of Transportation
+60544,ec80,NDOT 8 831,D,District 8  831,Public Works,Department of Transportation
+60545,ec81,NDOT 8 832,D,District 8  832,Public Works,Department of Transportation
+60546,ec82,NDOT Operations,D,Operations,Public Works,Department of Transportation
+60601,ecb9,Depart of Revenu,D,Department of Revenue,Public Works,Department of Revenue
+60626,ecd2,YRTC 1,D,Youth Rehabilitation  Treatment Center  Geneva 1,Hospital,Department of Heath Human Services
+60627,ecd3,YRTC 2,De,Youth Rehabilitation  Treatment Center  Geneva 2,Hospital,Department of Heath Human Services
+60678,ed06,NENG Tac 2,D,Tactical 2,Military,Army National Guard
