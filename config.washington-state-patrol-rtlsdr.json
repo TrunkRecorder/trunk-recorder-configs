@@ -1,0 +1,40 @@
+{
+    "ver": 2,
+    "sources": [{
+        "center": 769343750,
+        "rate": 2048000,
+        "error": 0,
+        "gain": 39,
+        "debugRecorders": 0,
+        "digitalRecorders": 5,
+        "driver": "osmosdr",
+        "device": "rtl=001"
+    }, {
+        "center": 774406250,
+        "rate": 2048000,
+        "error": 3100,
+        "gain": 32,
+        "digitalRecorders": 9,
+        "driver": "osmosdr",
+        "device": "rtl=978"
+    }
+    ],
+    "systems": [{
+        "control_channels": [774031250, 774281250],
+        "type": "p25",
+        "talkgroupsFile": "wasp_talkgroups.csv",
+        "shortName": "WASP",
+        "modulation": "qpsk",
+        "audioArchive": false
+    }],
+    "plugins": [{
+        "name": "rdioscanner_uploader",
+        "library": "librdioscanner_uploader.so",
+        "server": "http://localhost:3000",
+        "systems": [{
+                "shortName": "WASP",
+                "apiKey": "",
+                "systemId": 7971
+        }]
+    }]
+}
