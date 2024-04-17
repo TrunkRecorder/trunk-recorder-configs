@@ -12,8 +12,6 @@
                 "digitalRecorders": 12,
                 "digitalLevels": 1,
                 "modulation": "qpsk",
-                "multiSiteSystemName": "MSWIN",
-                "multiSiteSystemNumber": ,
                 "driver": "osmosdr",
                 "device": "hackrf"
 	}, {
@@ -26,7 +24,7 @@
                 "digitalRecorders": 5,
                 "digitalLevels": 1,
                 "driver": "osmosdr",
-	        "device": "rtl="
+                "device": "rtl="
         }, {
                 "center": 772662500,
                 "rate": 2400000,
@@ -36,7 +34,7 @@
                 "debugRecorders": 0,
                 "digitalRecorders": 5,
                 "digitalLevels": 1,
-	        "driver": "osmosdr",
+                "driver": "osmosdr",
                 "device": "rtl="
         }, {
                 "center": 774406250,
