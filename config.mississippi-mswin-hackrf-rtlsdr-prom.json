@@ -49,7 +49,7 @@
                 "device": "rtl="
         }],
         "systems": [{
-                "shortName": "nwmswin",
+                "shortName": "mswin4001",
                 "compressWav": true,
                 "recordUnknown": true,
                 "recordUUVCalls": true,
@@ -59,12 +59,12 @@
                 "control_channels": [854212500, 854462500, 856487500, 856762500],
                 "type": "p25",
                 "talkgroupsFile": "trs_tg_4879.csv",
-                "unitTagsFile": "MSWINDESOTO-UnitTags.csv",
+                "unitTagsFile": "MSWIN-UnitTags.csv",
                 "modulation": "qpsk",
                 "multiSiteSystemName": "MSWIN",
                 "multiSiteSystemNumber": 4001
         }, {
-                "shortName": "mswindeso1",
+                "shortName": "mswin3026",
                 "compressWav": true,
                 "recordUnknown": true,
                 "recordUUVCalls": true,
@@ -74,12 +74,12 @@
                 "control_channels": [769431250, 769681250, 769931250],
                 "type": "p25",
                 "talkgroupsFile": "trs_tg_4879.csv",
-                "unitTagsFile": "MSWINDESOTO-UnitTags.csv",
+                "unitTagsFile": "MSWIN-UnitTags.csv",
                 "modulation": "qpsk",
                 "multiSiteSystemName": "MSWIN",
                 "multiSiteSystemNumber": 3026
         }, {
-                "shortName": "mswintate1",
+                "shortName": "mswin3023",
                 "compressWav": true,
                 "recordUnknown": true,
                 "recordUUVCalls": true,
@@ -89,12 +89,12 @@
                 "control_channels": [773281250, 773531250, 773781250],
                 "type": "p25",
                 "talkgroupsFile": "trs_tg_4879.csv",
-                "unitTagsFile": "MSWINDESOTO-UnitTags.csv",
+                "unitTagsFile": "MSWIN-UnitTags.csv",
                 "modulation": "qpsk",
                 "multiSiteSystemName": "MSWIN",
                 "multiSiteSystemNumber": 3023
         }, {
-                "shortName": "mswintunic",
+                "shortName": "mswin3024",
                 "compressWav": true,
                 "recordUnknown": true,
                 "recordUUVCalls": true,
@@ -104,12 +104,12 @@
                 "control_channels": [769406250, 769656250, 769906250],
                 "type": "p25",
                 "talkgroupsFile": "trs_tg_4879.csv",
-                "unitTagsFile": "MSWINDESOTO-UnitTags.csv",
+                "unitTagsFile": "MSWIN-UnitTags.csv",
                 "modulation": "qpsk",
                 "multiSiteSystemName": "MSWIN",
                 "multiSiteSystemNumber": 3024
         }, {
-                "shortName": "mswinpano1",
+                "shortName": "mswin3022",
                 "compressWav": true,
                 "recordUnknown": true,
                 "recordUUVCalls": true,
@@ -119,12 +119,12 @@
                 "control_channels": [774318750, 774568750, 774818750],
                 "type": "p25",
                 "talkgroupsFile": "trs_tg_4879.csv",
-                "unitTagsFile": "MSWINDESOTO-UnitTags.csv",
+                "unitTagsFile": "MSWIN-UnitTags.csv",
                 "modulation": "qpsk",
                 "multiSiteSystemName": "MSWIN",
                 "multiSiteSystemNumber": 3022
         }, {
-                "shortName": "mswinmars1",
+                "shortName": "mswin3027",
                 "compressWav": true,
                 "recordUnknown": true,
                 "recordUUVCalls": true,
@@ -134,12 +134,12 @@
                 "control_channels": [770456250, 770706250, 770956250],
                 "type": "p25",
                 "talkgroupsFile": "trs_tg_4879.csv",
-                "unitTagsFile": "MSWINDESOTO-UnitTags.csv",
+                "unitTagsFile": "MSWIN-UnitTags.csv",
                 "modulation": "qpsk",
                 "multiSiteSystemName": "MSWIN",
                 "multiSiteSystemNumber": 3027
         }, {
-                "shortName": "mswinmars2",
+                "shortName": "mswin3028",
                 "compressWav": true,
                 "recordUnknown": true,
                 "recordUUVCalls": true,
@@ -149,12 +149,12 @@
                 "control_channels": [774293750, 774543750, 774793750],
                 "type": "p25",
                 "talkgroupsFile": "trs_tg_4879.csv",
-                "unitTagsFile": "MSWINDESOTO-UnitTags.csv",
+                "unitTagsFile": "MSWIN-UnitTags.csv",
                 "modulation": "qpsk",
                 "multiSiteSystemName": "MSWIN",
                 "multiSiteSystemNumber": 3028
         }, {
-                "shortName": "mswinbtsvl",
+                "shortName": "mswin3044",
                 "compressWav": true,
                 "recordUnknown": true,
                 "recordUUVCalls": true,
@@ -164,12 +164,12 @@
                 "control_channels": [771256250],
                 "type": "p25",
                 "talkgroupsFile": "trs_tg_4879.csv",
-                "unitTagsFile": "MSWINDESOTO-UnitTags.csv",
+                "unitTagsFile": "MSWIN-UnitTags.csv",
                 "modulation": "qpsk",
                 "multiSiteSystemName": "MSWIN",
                 "multiSiteSystemNumber": 3044
         }, {
-                "shortName": "mswintate2",
+                "shortName": "mswin3025",
                 "compressWav": true,
                 "recordUnknown": true,
                 "recordUUVCalls": true,
@@ -179,12 +179,12 @@
                 "control_channels": [770406250,	770656250, 770906250],
                 "type": "p25",
                 "talkgroupsFile": "trs_tg_4879.csv",
-                "unitTagsFile": "MSWINDESOTO-UnitTags.csv",
+                "unitTagsFile": "MSWIN-UnitTags.csv",
                 "modulation": "qpsk",
                 "multiSiteSystemName": "MSWIN",
                 "multiSiteSystemNumber": 3025
         }, {
-                "shortName": "mswinlowemtn",
+                "shortName": "mswin3020",
                 "compressWav": true,
                 "recordUnknown": true,
                 "recordUUVCalls": true,
@@ -194,12 +194,12 @@
                 "control_channels": [769468750, 769718750, 769968750],
                 "type": "p25",
                 "talkgroupsFile": "trs_tg_4879.csv",
-                "unitTagsFile": "MSWINDESOTO-UnitTags.csv",
+                "unitTagsFile": "MSWIN-UnitTags.csv",
                 "modulation": "qpsk",
                 "multiSiteSystemName": "MSWIN",
                 "multiSiteSystemNumber": 3020
         }, {
-                "shortName": "mswinmdot2",
+                "shortName": "mswin3019",
                 "compressWav": true,
                 "recordUnknown": true,
                 "recordUUVCalls": true,
@@ -209,12 +209,12 @@
                 "control_channels": [774306250, 774556250, 774806250],
                 "type": "p25",
                 "talkgroupsFile": "trs_tg_4879.csv",
-                "unitTagsFile": "MSWINDESOTO-UnitTags.csv",
+                "unitTagsFile": "MSWIN-UnitTags.csv",
                 "modulation": "qpsk",
                 "multiSiteSystemName": "MSWIN",
                 "multiSiteSystemNumber": 3019
         }, {
-                "shortName": "mswinoxford",
+                "shortName": "mswin3021",
                 "compressWav": true,
                 "recordUnknown": true,
                 "recordUUVCalls": true,
@@ -223,12 +223,12 @@
                 "talkgroupDisplayFormat": "tag_id",
                 "control_channels": [770418750, 770668750, 770918750],
                 "talkgroupsFile": "trs_tg_4879.csv",
-                "unitTagsFile": "MSWINDESOTO-UnitTags.csv",
+                "unitTagsFile": "MSWIN-UnitTags.csv",
                 "modulation": "qpsk",
                 "multiSiteSystemName": "MSWIN",
                 "multiSiteSystemNumber": 3021
         }, {
-                "shortName": "mswinuofm",
+                "shortName": "mswin3049",
                 "compressWav": true,
                 "recordUnknown": true,
                 "recordUUVCalls": true,
@@ -238,17 +238,13 @@
                 "control_channels": [769106250, 769781250, 771106250, 722306250],
                 "type": "p25",
                 "talkgroupsFile": "trs_tg_4879.csv",
-                "unitTagsFile": "MSWINDESOTO-UnitTags.csv",
+                "unitTagsFile": "MSWIN-UnitTags.csv",
                 "modulation": "qpsk",
                 "multiSiteSystemName": "MSWIN",
                 "multiSiteSystemNumber": 3049
         }] ,
         "plugins": [
-                {
-                    "name": "prometheus",
-                    "library": "libprometheus_plugin.so",
-                    "port": 9842
-                }],
+                ],
 
         "uploadServer": "https://api.openmhz.com",
         "broadcastifyCallsServer": "https://api.broadcastify.com/call-upload",
